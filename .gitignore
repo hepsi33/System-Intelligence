@@ -7,3 +7,5 @@ venv/
 .vscode/
 .idea/
 *.log
+temp_repo/
+test_env/
