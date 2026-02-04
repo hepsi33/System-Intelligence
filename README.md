@@ -2,8 +2,6 @@
 
 **RobotCLI** is a futuristic, AI-powered Windows Agent that allows you to control your file system and monitor system health using natural language. Built with Python, Rich, and OpenRouter (Google Gemini).
 
-![Robot Theme](https://via.placeholder.com/800x200?text=Robot+CLI+V2+-+Light+Theme+Purple+Cyan)
-
 ## 🚀 Features
 
 ### 🧠 Intelligent Core
